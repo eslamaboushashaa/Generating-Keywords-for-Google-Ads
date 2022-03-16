@@ -1,4 +1,4 @@
-# Generating-Keywords-for-Google-Ads
+# Generating Keywords for Google Ads
 
 ***One of the most popular markting tool is Search Engine Marketing (SEM).*** 
 
